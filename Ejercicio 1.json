@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "625b0f5c3121e9518101e2b2"
+  },
+  "idVendedor": 771234,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1650134876369"
+    }
+  },
+  "orden": {
+    "producto": [
+      "Coca Cola",
+      "Fanta",
+      "Sprite"
+    ],
+    "presentaciones": [
+      "500 ml",
+      "1.5 lts",
+      "2.25 lts",
+      "3 lts"
+    ]
+  },
+  "comerciante": {
+    "nombre": "Mao",
+    "apellido": "Tzu",
+    "razonSocial": "Supermercado Chino",
+    "tipoCliente": "Fijo",
+    "direccion": "Av. San Martín 1234"
+  }
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "625b3974c06a878fdb7c870a"
+  },
+  "nombre": "Roberto",
+  "nombreUsua": "robert_1",
+  "cuentaTwit": "/robert.45",
+  "descripcion": "Amante de la comida",
+  "direccion": {
+    "calle": "Las Calandrias",
+    "numeracion": 2564,
+    "puerta": "",
+    "codPostal": 1686,
+    "ciudad": "Hurlingham"
+  },
+  "telefono": {
+    "num1": 1135484950,
+    "num2": "",
+    "num3": ""
+  }
+},{
+  "_id": {
+    "$oid": "625b42bec06a878fdb7c8712"
+  },
+  "titulo": "Hackean Axie Infinity y se roban 600 millones de dólares",
+  "cuerpo": "Lorem",
+  "fechaPubli": "01/04/2022",
+  "autor": "Jack Torrance",
+  "comentarios": {
+    "usuario": "robert_1",
+    "comentario": "Allá le están robando",
+    "momento": "23:46 02/04/2022"
+  }
+}]
